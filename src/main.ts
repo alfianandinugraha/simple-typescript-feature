@@ -3,6 +3,7 @@ import "./features/NullishCoalescing";
 import "./features/TuppleTypes";
 import "./features/RecuriveTypeAliases";
 import "./features/ErrorHandlingWithUnknown";
+import "./features/ImportTypeOnly";
 import "./style.css";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
