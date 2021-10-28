@@ -1,6 +1,6 @@
 # Simple Typescript Feature
 
-This repository is all about Typescript feature's that you might don't know
+This repository is about Typescript feature's that you might don't know
 
 ## Feature
 
