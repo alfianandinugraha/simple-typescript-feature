@@ -1,6 +1,7 @@
 import "./features/OptionalChaining";
 import "./features/NullishCoalescing";
 import "./features/TuppleTypes";
+import "./features/RecuriveTypeAliases";
 import "./style.css";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
