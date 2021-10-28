@@ -1,7 +1,7 @@
 import "./features/OptionalChaining";
 import "./features/NullishCoalescing";
 import "./features/TuppleTypes";
-import "./features/RecuriveTypeAliases";
+import "./features/RecursiveTypeAliases";
 import "./features/ErrorHandlingWithUnknown";
 import "./features/ImportTypeOnly";
 import "./style.css";
